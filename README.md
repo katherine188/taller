@@ -15,14 +15,14 @@ Examen Parcial 2 — Programación para Dispositivos Móviles.
 - Costo total = mano de obra + repuestos.
 
 ## Requisitos
-- Flutter 3.27 o superior (Dart 3.6+) — comprueba con `flutter --version`
+- Flutter 3.27 o superior (Dart 3.6+) 
 - Android Studio (o VS Code) con un emulador Android o un teléfono con depuración USB
 - Git
 
 ## Cómo abrir y ejecutar (paso a paso)
 1. Clona el repositorio:
    ```bash
-   git clone <URL-DEL-REPOSITORIO>
+   git clone https://github.com/katherine188/taller
    cd tu_solution
    ```
 2. Descarga las dependencias:
