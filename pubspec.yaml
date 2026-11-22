@@ -1,0 +1,24 @@
+name: tu_solution
+description: Gestión de reparaciones del taller Tu Solution (Flutter + Drift + Riverpod).
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  drift: ^2.28.0
+  drift_flutter: ^0.2.4
+  flutter_riverpod: ^2.6.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  build_runner: ^2.4.13
+  drift_dev: ^2.28.0
+
+flutter:
+  uses-material-design: true

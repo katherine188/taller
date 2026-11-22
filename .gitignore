@@ -1,0 +1,62 @@
+# ── Flutter / Dart ─────────────────────────────────────────────
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+.flutter-plugins
+.flutter-plugins-dependencies
+**/doc/api/
+app.*.symbols
+app.*.map.json
+
+# ── Android / Gradle ───────────────────────────────────────────
+.gradle/
+.kotlin/
+local.properties
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/.cxx/
+android/captures/
+
+# ── Firma y secretos ───────────────────────────────────────────
+key.properties
+*.jks
+*.keystore
+.env
+.env.*
+!.env.example
+
+# ── IDE / editores ─────────────────────────────────────────────
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# ── Sistema operativo ──────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.swp
+*.swo
+*~
+
+# ── Historial / temporales ─────────────────────────────────────
+.history/
+.svn/
+.atom/
+.buildlog/
+migrate_working_dir/
+*.tmp
+*.bak
+
+# ── Artefactos de compilación ──────────────────────────────────
+*.class
+*.apk
+*.aab
+*.ipa
+*.hprof
